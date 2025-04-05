@@ -26,7 +26,7 @@ A Python script that automatically sends WhatsApp birthday greetings by fetching
 1. Clone the repository:
 
 ```
-git clone https://github.com/01169364/whatsapp-birthday-wisher.git
+git clone https://github.com/01169364/Whatsapp_msgs.git
 cd whatsapp-birthday-wisher
 ```
 
@@ -104,7 +104,7 @@ MIT License - Free for personal and commercial use
 
 ## Support
 
-For issues or feature requests, [please open an issue.](https://github.com/01169364/whatsapp-birthday-wisher/issues)
+For issues or feature requests, [please open an issue.](https://github.com/01169364/Whatsapp_msgs/issues)
 
 # Happy automating! 🚀
 
