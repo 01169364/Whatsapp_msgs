@@ -7,5 +7,5 @@ set PYTHONLEGACYWINDOWSSTDIO=utf-8
 cd /d "%~dp0"
 
 :: Run Python with unbuffered output for real-time logging
-python -u whatsapp.py >> log.txt 2>&1
+python -u birthday_wisher.py >> log.txt 2>&1
 exit
