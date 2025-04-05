@@ -26,7 +26,7 @@ def get_google_contacts():
         else:
             # First-time auth (opens browser)
             flow = InstalledAppFlow.from_client_secrets_file(
-                'client_secret_930514105564-fsj3sec5l4rnv4re1mstrf5tfmtr0flr.apps.googleusercontent.com.json', SCOPES)
+                'credentials.json', SCOPES)
             creds = flow.run_local_server(port=0)
         
         # Save token for future runs
