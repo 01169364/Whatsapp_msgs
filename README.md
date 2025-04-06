@@ -27,7 +27,7 @@ A Python script that automatically sends WhatsApp birthday greetings by fetching
 
 ```
 git clone https://github.com/nanda112/Whatsapp_msgs.git
-cd whatsapp-birthday-wisher
+cd whatsapp_msgs
 ```
 
 2. Install dependencies:
@@ -69,7 +69,7 @@ This will:
 
 ## File Structure
 ```
-📂 whatsapp-birthday-wisher/
+📂 whatsapp_msgs/
 ├── 📄 birthday_wisher.py      # Main script
 ├── 📄 run_birthday_wisher.bat # Batch file for scheduling
 ├── 📄 requirements.txt        # Dependencies
